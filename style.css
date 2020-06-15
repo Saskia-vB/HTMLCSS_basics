@@ -1,0 +1,24 @@
+
+
+h1 {
+	color: rgba(234, 84, 91, 0.95);
+	font-family: 'MuseoModerno', cursive;
+	font-weight: bold;
+}
+/*
+h2, h3 {
+	color: rgba(234, 84, 91, 0.9);
+}*/
+
+h2, h3 {
+	color: #ea545b;
+	opacity: 0.90;
+	font-family: 'Roboto', sans-serif;
+}
+
+body, p {
+	color: rgb(30, 30, 30);
+	font-family: serif, times;
+	font-size: 18px;
+	font-family: 'Roboto', sans-serif;
+}
