@@ -65,9 +65,19 @@ img {
 }
 
 .changes {
-	
+
 }
 
+
+ul {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.inline-blocks {
+	display: flex;
+	justify-content: space-around;
+}
 
 
 
